@@ -1,0 +1,2 @@
+#create a python that is able to determine a number enterd is an even number or odd number.
+#Create a python program that is able to determine whether a person can donate blood based on the age and weight of a person.. If the weight is greater than 50kg and age is above 18, then the person can donate ,else not possible.
